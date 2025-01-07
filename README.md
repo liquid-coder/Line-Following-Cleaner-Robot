@@ -26,5 +26,5 @@ A smart line following, vaccum cleaner, water spary and moping robot with object
 <h2>17. XL7015 5V-80V DC-DC 0.8A Dc Converter Step-down Module Wide Voltage Input LM2596</h2>
 
 <h1>Circuit Diagram</h1>
-<img src = "images/circuit diagram.jpg" width = "700" height = "1000">
+<img src = "images/circuit diagram.jpg" width = "1000" height = "700">
 
