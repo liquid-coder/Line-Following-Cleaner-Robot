@@ -62,3 +62,5 @@ A smart line following, vaccum cleaner, water spary and moping robot with object
         robot stops as well and turns on the LED light. Once the obstacle is removed or motion stops, the 
         robot starts to move again after a debounce time (MOTION_CLEAR_TIME or clearDuration).
     </h3>
+<h1>Demonstration</h1>
+https://github.com/user-attachments/assets/2cb84f4c-d5f6-4f87-bd17-21da175ae10a
