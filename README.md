@@ -5,4 +5,4 @@ A smart line following, vaccum cleaner, water spary and moping robot with object
 <p>1. <button><a href = "https://github.com/tu-Rahat">Md. Toslim Uddin Rahat</button></p>  
 <p>2. <button><a href = "https://github.com/ARSahil">Ashique Rahman Sahil</button></p>
 <h1>LFCR</h1>
-<img src = "images/LFCR.jpg" width="300" height="200">
+<img src = "images/LFCR.jpg" width="300" height="500">
